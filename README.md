@@ -1,4 +1,4 @@
-I am a front-end developer and app developer and a student at Sinai University, Faculty of Information Technology and Computer Science.
+I am a front-end developer, app developer, and student at Sinai University Faculty of Information Technology and Computer Science.
 
 🔭 I’m currently learning MERN Stack
 
